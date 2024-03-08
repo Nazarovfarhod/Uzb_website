@@ -1,0 +1,45 @@
+body {
+  background-color: #98f2fa ;
+}
+
+.main {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid;
+  max-width: 1400px;
+  padding: 50px;
+  background-color: cornsilk;
+}
+.uzb {
+ margin-left: 220px;
+ margin-right: 220px;
+}
+.map {
+  margin-left: 400px;
+  margin-right: 400px;
+
+}
+.mountain {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.emblem {
+  margin-left: 65px;
+  margin-right: 65px;
+}
+.anthem {
+  margin-left: 550px;
+  margin-right: 550px;
+  font-size: 25px;
+  text-decoration: none;
+}
+.uzbekistan {
+  text-transform: uppercase;
+  text-align: center;
+}
+img {
+  border-radius: 24px;
+}
+p {
+  font-size: 25px;
+}
